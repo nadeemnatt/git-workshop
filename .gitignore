@@ -17,4 +17,5 @@
 !**/*.gnu
 !**/*.py
 
+*.pdf
 ## ... continue to list any file-types you want git to track
