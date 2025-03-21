@@ -203,3 +203,7 @@ For example:
 * Requires at least version 1.8.2 of git (many years old at this stage, shouldn't be a problem)
 
 * I made change on github web
+
+
+Now I make chnages to new brcnh called mainBranch
+
