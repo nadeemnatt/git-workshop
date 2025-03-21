@@ -67,3 +67,5 @@
 * If you're feeling very adventurous, try to create a merge confict
 * Do this by repeating steps 8 and 9, but this time make and commit changes to _both_ branches before the merge
 * I highly recommend using VSCode (or similar) graphical interface for merge conflicts, unless you really enjoy painand suffering
+
+test changes by mee!
