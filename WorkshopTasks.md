@@ -69,3 +69,5 @@
 * I highly recommend using VSCode (or similar) graphical interface for merge conflicts, unless you really enjoy painand suffering
 
 test changes by mee!
+
+textst 2  chnages
